@@ -1,7 +1,7 @@
 # Book-Search
 
 ## Description
-This site allows users to search for their favorite books.
+This site allows users to search for their favorite books. Once logged in (or signed-up), users are able to save books to their favorites.
 
 ![Book-Search - Homepage](./assets/images/homepage-screenshot.png)
 
