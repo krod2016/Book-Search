@@ -12,10 +12,15 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "engines": {
+    "node": ">=0.12 < 17.5.0"
+  },
   "devDependencies": {
     "concurrently": "^5.1.0"
   },
   "dependencies": {
-    "create-react-app": "^5.0.0"
+    "create-react-app": "^5.0.0",
+    "mongodb": "^4.4.0",
+    "mongoose": "^5.11.15"
   }
 }
