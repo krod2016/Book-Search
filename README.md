@@ -31,7 +31,6 @@ Here is screenshot of the website in action.
 
 ## Links
 * GitHub: https://github.com/krod2016/Book-Search
-* Heroku: 
 
 ## Made By:
 Katrina Rodriguez
