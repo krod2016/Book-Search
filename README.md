@@ -3,7 +3,7 @@
 ## Description
 This site allows users to search for their favorite books.
 
-![Book-Search - Homepage]('./assets/images/homepage-screenshot.png')
+![Book-Search - Homepage](./assets/images/homepage-screenshot.png)
 
 Here is screenshot of the website in action.
 
